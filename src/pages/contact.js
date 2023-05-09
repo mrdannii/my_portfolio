@@ -1,6 +1,12 @@
+import Head from "next/head";
+
 export default function contact() {
   return (
     <>
+     <Head>
+        <title>Muhammad Daniyal - Contact</title>
+        <link rel="shortcut icon" href="/react.svg" />
+      </Head>
       <main
         className={`flex min-h-screen flex-col items-center justify-between p-24`}
       >
