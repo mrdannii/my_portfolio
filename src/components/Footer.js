@@ -13,7 +13,7 @@ export default function Footer() {
               width={33}
               height={33}
               priority
-             style={{'mix-blend-mode': 'soft-light'}}
+             style={{'mixBlendMode': 'soft-light'}}
             />
           <span className="ml-3 text-xl">Portfolio</span>
         </a>

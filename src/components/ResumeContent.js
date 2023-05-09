@@ -192,10 +192,10 @@ export default function ResumeContent() {
             </div>
           </div>
         </div>
-        <div className="flex ">
+        <div className="flex">
           <a
-            className=" flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded "
-            href="/resume.pdf" target="_blank"
+            className=" flex mx-auto mt-10 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded "
+            href="/Muhammad_Daniyal_Resume.pdf" target="_blank"
           >
             Resume PDF
             <svg

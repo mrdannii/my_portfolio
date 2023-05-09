@@ -15,7 +15,7 @@ export default function Navbar() {
               width={36}
               height={36}
               priority
-             style={{'mix-blend-mode': 'soft-light'}}
+             style={{'mixBlendMode': 'soft-light'}}
             />
           <span className=" ml-3 text-2xl">   Muhammad Daniyal  </span>
           <small className="ml-3 mt-4 text-xs animate-bounce italic"><code> Full Stack Developer </code></small>
