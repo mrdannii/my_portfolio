@@ -68,7 +68,7 @@ export default function contact() {
                     </svg>
                   </a>
 
-                  <a className="ml-2 text-gray-400 transition ease-in-out delay-0  hover:-translate-y-1 hover:scale-150"
+                  {/* <a className="ml-2 text-gray-400 transition ease-in-out delay-0  hover:-translate-y-1 hover:scale-150"
                    target="_blank" href="https://www.facebook.com/mr.dannii/">
                     <svg
                       fill="currentColor"
@@ -80,9 +80,9 @@ export default function contact() {
                     >
                       <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                     </svg>
-                  </a>
+                  </a> */}
                  
-                  <a className="ml-3 text-gray-400 transition ease-in-out delay-0  hover:-translate-y-1 hover:scale-150"
+                  {/* <a className="ml-3 text-gray-400 transition ease-in-out delay-0  hover:-translate-y-1 hover:scale-150"
                    target="_blank" href="https://instagram.com/mr_dannii">
                     <svg
                       fill="none"
@@ -103,7 +103,7 @@ export default function contact() {
                       ></rect>
                       <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
                     </svg>
-                  </a>
+                  </a> */}
                   <a
                     className="ml-3 text-gray-400 transition ease-in-out delay-0  hover:-translate-y-1 hover:scale-150 "
                     target="_blank"
